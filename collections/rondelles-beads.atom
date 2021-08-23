@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tucsonbeads.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tucsonbeads.com/collections/rondelles-beads.atom"/>
+  <title>Tucson Beads</title>
+  <updated>2021-06-08T08:29:06-04:00</updated>
+  <author>
+    <name>Tucson Beads</name>
+  </author>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6771407913141</id>
+    <published>2021-06-08T08:29:06-04:00</published>
+    <updated>2021-06-08T08:29:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-shaded-emerald-faceted-rondelles-emerald-roundle-beads-4mm-6mm-16-inch-long-rb0898"/>
+    <title>1 Strand Shaded Emerald Faceted Rondelles - Emerald Roundle Beads  -4mm-6mm 16 Inch Long RB0898</title>
+    <s:type>Gemstone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_1443_56c913fb-e4a2-4e0b-b2ec-dfdbf5efb0f6.jpg?v=1624347012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Gemstone<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Shaded Emerald Faceted Rondelles - Emerald Roundle Beads  -4mm-6mm 16 Inch Long RB0898</p>
+<p>Strand is 16" long and holds about 190+ beads. </p>
+<ul>
+<li>
+<strong>Size</strong> - 4mm-6mm Approx.</li>
+<li>
+<strong>Stone</strong> <strong>Type</strong> - Emerald</li>
+<li>
+<strong>Lenght</strong> - 16 Inches</li>
+<li>Beads - 100+Beads per strand </li>
+<li>
+<strong>EC</strong>-KC</li>
+</ul>
+<p>Exclusive high quality chain made in 4 Generation old Production House where trust is a tradition Bulk wholesale pricing is available .</p>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6771407913141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>BR0898</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6771383500981</id>
+    <published>2021-06-08T08:17:23-04:00</published>
+    <updated>2021-06-08T08:17:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-shaded-emerald-faceted-rondelles-emerald-roundle-beads-3mm-4mm-17-inch-long-rb0897"/>
+    <title>1 Strand Shaded Emerald Faceted Rondelles - Emerald Roundle Beads  -3mm-4mm 17 Inch Long RB0897</title>
+    <s:type>Gemstone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_1437_88bcba79-ea04-485c-a199-c5a5accd6b6a.jpg?v=1624347011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Gemstone<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Shaded Emerald Faceted Rondelles - Emerald Roundle Beads  -3mm-4mm 17 Inch Long RB0897</p>
+<p>Strand is 17" long and holds about 190+ beads. </p>
+<ul>
+<li>
+<strong>Size</strong> - 3.5mm-4mm Approx.</li>
+<li>
+<strong>Stone</strong> <strong>Type</strong> - Emerald</li>
+<li>
+<strong>Lenght</strong> - 17 Inches</li>
+<li>Beads - 100+Beads per strand </li>
+<li>
+<strong>EC</strong>-KC</li>
+</ul>
+<p>Exclusive high quality chain made in 4 Generation old Production House where trust is a tradition Bulk wholesale pricing is available .</p>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6771383500981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>BR0897</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6771355910325</id>
+    <published>2021-06-08T08:11:56-04:00</published>
+    <updated>2021-06-08T08:11:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-shaded-emerald-faceted-rondelles-emerald-roundle-beads-3-5mm-4mm-16-inch-long-rb0896"/>
+    <title>1 Strand Shaded Emerald Faceted Rondelles - Emerald Roundle Beads  -3.5mm-4mm 16 Inch Long RB0896</title>
+    <s:type>Gemstone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_1440_bccecf9d-7ae1-41dd-b7a7-5107d324cfa5.jpg?v=1624347009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Gemstone<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Shaded Emerald Faceted Rondelles - Emerald Roundle Beads  -3.5mm-4mm 16 Inch Long RB0896</p>
+<p>Strand is 16" long and holds about 190+ beads. </p>
+<ul>
+<li>
+<strong>Size</strong> - 3.5mm-4mm Approx.</li>
+<li>
+<strong>Stone</strong> <strong>Type</strong> - Emerald</li>
+<li>
+<strong>Lenght</strong> - 17 Inches</li>
+<li>Beads - 100+Beads per strand </li>
+<li>
+<strong>EC</strong>-KC</li>
+</ul>
+<p>Exclusive high quality chain made in 4 Generation old Production House where trust is a tradition Bulk wholesale pricing is available .</p>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6771355910325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>BR0896</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6745017712821</id>
+    <published>2021-05-26T09:02:28-04:00</published>
+    <updated>2021-05-26T09:02:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-faceted-rondelles-beads-round-beads-2"/>
+    <title>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0894</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_5728_cf67dafd-52d2-44a1-93e2-06e54217df40.jpg?v=1627975903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0894</p>
+<p>7 Inches Strand and holds 100+ beads approx</p>
+<ul>
+<li>
+<strong>Stone</strong>= Natural Emerald </li>
+<li>
+<strong>Length</strong>=7 Inches</li>
+<li>
+<strong>Size= </strong>3mm</li>
+<li>
+<strong>Beads</strong>=100+ Per strand</li>
+<li>
+<strong>EC</strong>=N26</li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6745017712821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>BR0894</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6745016533173</id>
+    <published>2021-05-26T08:59:15-04:00</published>
+    <updated>2021-05-26T08:59:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-faceted-rondelles-beads-round-beads"/>
+    <title>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0892</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_5654_72073eaf-ddfa-479a-93ea-c809ba8502bc.jpg?v=1627975899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0892</p>
+<p><em>21 Inches Strand and holds 150+ beads approx</em></p>
+<ul>
+<li>
+<strong>Stone</strong>= Natural Emerald </li>
+<li>
+<strong>Length</strong>=7 Inches</li>
+<li>
+<strong>Size= </strong>3mm</li>
+<li>
+<strong>Beads</strong>=100+ Per strand</li>
+<li>
+<strong>EC</strong>=N26</li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6745016533173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>BR0892</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6745016959157</id>
+    <published>2021-05-26T08:58:46-04:00</published>
+    <updated>2021-05-26T08:58:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-faceted-rondelles-beads-round-beads-1"/>
+    <title>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0893</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_5691_0c043857-c4c2-4d51-be69-8248d3b06332.jpg?v=1627975902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0893</p>
+<p>7 Inches Strand and holds 100+ beads approx</p>
+<ul>
+<li>
+<strong>Stone</strong>= Natural Emerald </li>
+<li>
+<strong>Length</strong>=7 Inches</li>
+<li>
+<strong>Size= </strong>3mm</li>
+<li>
+<strong>Beads</strong>=100+ Per strand</li>
+<li>
+<strong>EC</strong>=N26</li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6745016959157</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>BR0893</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6745017974965</id>
+    <published>2021-05-26T08:58:03-04:00</published>
+    <updated>2021-05-26T08:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-faceted-rondelles-beads-round-beads-3"/>
+    <title>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0895</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_7952_cfe021c2-b1bb-497e-8b12-8c42a34a23cb.jpg?v=1622033805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Natural Emerald Faceted Rondelles Beads - Round Beads  3mm - 7 Inch BR0895</p>
+<p>7 Inches Strand and holds 100+ beads approx</p>
+<ul>
+<li>
+<strong>Stone</strong>= Natural Emerald </li>
+<li>
+<strong>Length</strong>=7 Inches</li>
+<li>
+<strong>Size= </strong>3mm</li>
+<li>
+<strong>Beads</strong>=100+ Per strand</li>
+<li>
+<strong>EC</strong>=N26</li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6745017974965</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>BR0894</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6745015550133</id>
+    <published>2021-05-26T08:52:54-04:00</published>
+    <updated>2021-05-26T08:52:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-smooth-rondelles-beads-round-beads"/>
+    <title>1 Strand Natural Emerald Smooth Rondelles Beads - Round Beads  2mm-5mm - 21 Inch BR0891</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_5746_457bd215-2756-46bf-bf97-fbb7c4cb02d2.jpg?v=1627975898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            40.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Natural Emerald Smooth Rondelles Beads - Round Beads  2mm-5mm - 21 Inch BR0891</p>
+<p><em>21 Inches Strand and holds 150+ beads approx</em></p>
+<ul>
+<li>
+<strong>Stone</strong>= Natural Emerald </li>
+<li>
+<strong>Length</strong>=21 Inches</li>
+<li>
+<strong>Size=</strong>2mm-5mm</li>
+<li>
+<strong>Beads</strong>=100+ Per strand</li>
+<li>
+<strong>EC</strong>=N26</li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6745015550133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.49</s:price>
+      <s:sku>BR0891</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6716123578549</id>
+    <published>2021-05-04T09:17:13-04:00</published>
+    <updated>2021-05-04T09:17:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-smooth-rondelles-beads-round-beads-3mm-5mm-17-inch-br2638"/>
+    <title>1 Strand Natural Emerald Smooth Rondelles Beads- Round Beads - 3mm-5mm - 17 Inch BR2638</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_6991_4af52924-a368-4506-ba55-27bc8046dc1d.jpg?v=1620721102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 1 Strand Natural Emerald Smooth Rondelles Beads- Round Beads - 3mm-5mm - 17 Inch BR2638</p>
+<p><em>17Inches Strand and holds 100+ beads approx</em></p>
+<ul>
+<li><em><strong>Stone</strong>= <span data-mce-fragment="1">Natural Emerald </span></em></li>
+<li><em><strong>Length</strong>=17 Inches</em></li>
+<li><em><strong>Size=</strong>3mm-5mm</em></li>
+<li><em><strong>Beads</strong>=100+ Per strand</em></li>
+<li><em><strong>EC</strong>=KC</em></li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6716123578549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>BR2638</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6716125479093</id>
+    <published>2021-05-04T09:05:21-04:00</published>
+    <updated>2021-05-04T09:05:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-smooth-rondelles-beads-round-beads-2mm-3mm-18-inch-br2632"/>
+    <title>1 Strand Natural Emerald Smooth Rondelles Beads- Round Beads - 2mm-3mm - 18 Inch BR2632</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_6988_0afedff4-a0d6-4170-aca5-841071b31f49.jpg?v=1620721105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Natural Emerald Smooth Rondelles Beads- Round Beads - 2mm-3mm - 18 Inch BR2632</p>
+<p><em>18 Inches Strand and holds 100+ beads approx</em></p>
+<ul>
+<li><em><strong>Stone</strong>= <span data-mce-fragment="1">Natural Emerald </span></em></li>
+<li><em><strong>Length</strong>=18 Inches</em></li>
+<li><em><strong>Size=</strong>2mm-3mm</em></li>
+<li><em><strong>Beads</strong>=100+ Per strand</em></li>
+<li><em><strong>EC</strong>=KC</em></li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/GEMSTONES</s:tag>
+    <s:tag>Category_Default Category/GEMSTONES/SEMI PRECIOUS BRIOLETTES</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6716125479093</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>BR2632</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6716124987573</id>
+    <published>2021-05-04T09:01:14-04:00</published>
+    <updated>2021-05-04T09:01:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-natural-emerald-smooth-rondelles-beads-round-beads-2mm-5mm-16-inch-br2634"/>
+    <title>1 Strand Natural Emerald Smooth Rondelles Beads- Round Beads - 2mm-5mm - 16 Inch BR2634</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_7018_1b30c156-cfe9-4663-82db-f1348fed0e24.jpg?v=1620721105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            37.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Natural Emerald Smooth Rondelles Beads- Round Beads - 2mm-5mm - 16 Inch BR2634</p>
+<p><em>16 Inches Strand and holds 100+ beads approx</em></p>
+<ul>
+<li><em><strong>Stone</strong>= <span data-mce-fragment="1">Natural Emerald </span></em></li>
+<li><em><strong>Length</strong>=16 Inches</em></li>
+<li><em><strong>Size=</strong>2mm-5mm</em></li>
+<li><em><strong>Beads</strong>=100+ Per strand</em></li>
+<li><em><strong>EC</strong>=KC</em></li>
+</ul>
+<p><em>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6716124987573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.49</s:price>
+      <s:sku>BR2634</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4576025346144</id>
+    <published>2021-03-05T05:25:16-05:00</published>
+    <updated>2021-03-05T05:25:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-aaa-quality-multi-sapphire-faceted-rondelles-sapphire-round-beads-5mm-6mm-br2961"/>
+    <title>1 Strand AAA Quality Multi Sapphire Faceted Rondelles - Sapphire Round Beads 5mm-6mm.BR2961</title>
+    <s:type></s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/il_fullxfull.1915778850_2q72_oxtsudg5zafmg4gc.jpg?v=1594899982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand AAA Quality Multi Sapphire Faceted Rondelles - Sapphire Round Beads 5mm-6mm.BR2961 Listing/Price is for ONE (1) Strand. Size= 5mm-6mm Length= 8.5 Inches Stone= Multi Sapphire Shape= Rondelles Beads= 52+ EC=02K Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry. https://www.etsy.com/shop/Tucsonbeads/search?search_query=BR&amp;order=date_desc&amp;view_type=gallery&amp;ref=shop_search</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/GEMSTONES</s:tag>
+    <s:tag>Category_Default Category/GEMSTONES/SEMI PRECIOUS BRIOLETTES</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4576025346144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.49</s:price>
+      <s:sku>.BR2961</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/5797453594782</id>
+    <published>2021-02-25T08:31:03-05:00</published>
+    <updated>2021-02-25T08:31:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/white-silverite-faceted-rondelles-gemstone-rondelles-1"/>
+    <title>1  Strand Blue Sapphire Silverite Faceted Rondelles  - Gemstone Rondelles  2.5mm-3mm 12.5 Inches BR0075</title>
+    <s:type>Semi Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_1926_a1118eb2-3b04-451a-a451-c9443e073d2e.jpg?v=1604060161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Semi Precious Stone<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1  Strand Blue Sapphire Silverite Faceted Rondelles  - Gemstone Rondelles  2.5mm-3mm 12.5 Inches BR0075</p>
+<p>Beads measure about <span data-mce-fragment="1">2.5mm-3mm</span><span> </span>in diameter.</p>
+<p>Strand is 12.5" and holds about 90+ Beads.</p>
+<p>Listing/Price is for One (1) Strand.</p>
+<ul>
+<li>
+<strong>Size</strong> = <span data-mce-fragment="1">2.5mm-3mm</span> Approx.</li>
+<li>
+<strong>Stone Type</strong> =<span data-mce-fragment="1">Blue </span><span data-mce-fragment="1" mce-data-marked="1">Sapphire Silverite</span>
+</li>
+<li>
+<strong>Length</strong> = 12.5 Inches</li>
+<li>
+<strong>Beads</strong>=90 per strand</li>
+<li>
+<strong>EC= </strong>N26</li>
+</ul>
+<p>Measurements and weight are close approximations.</p>
+<p>Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/5797453594782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.49</s:price>
+      <s:sku>RB0075</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6190371995829</id>
+    <published>2020-12-28T05:25:13-05:00</published>
+    <updated>2020-12-28T05:25:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-long-strand-natural-ruby-beads-rondelles-precious-gemstone-beads-3mm-18-inch-long-rb304"/>
+    <title>1 Long Strand Natural  Ruby Beads Rondelles  - Precious gemstone beads -3mm 18 Inch Long RB304</title>
+    <s:type>precious Beads</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_9046_c9e7e792-0e3e-4fcb-91a2-6e1e181e0338.jpg?v=1609229759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>precious Beads<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 1 Long Strand Natural  Ruby Beads Rondelles  - Precious gemstone beads -3mm 18 Inch Long RB304  </p>
+<p>Strand is 18" long and holds about 120+ beads.</p>
+<p>Listing/Price is for One (1) strand.</p>
+<ul>
+<li>
+<strong>Size</strong> = 3mm Approx.</li>
+<li>
+<strong>Stone</strong> <strong>Type</strong> = <span data-mce-fragment="1">Natural  Ruby</span>
+</li>
+<li>
+<strong>Lenght</strong> = 18 Inch</li>
+<li>
+<strong>EC</strong> = RG</li>
+</ul>
+<p>strand Exclusive high quality chain made in 4 Generation old Production House where trust is a tradition Bulk wholesale pricing is available convo me for information on this listing or any others in my store.</p>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deal  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6190371995829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>RB304</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6185102999733</id>
+    <published>2020-12-25T06:57:36-05:00</published>
+    <updated>2020-12-25T06:57:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/shaded-emerald-faceted-rondelles-emerald-roundle-beads-gemstone-beads"/>
+    <title>1 Strand Shaded Emerald Faceted Rondelles - Emerald Roundle Beads  -3mm 3.5mm 17 Inch Long RB0119</title>
+    <s:type>Gemstone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_8391_6a33db21-9b34-4657-8d41-ee50d6f49f57.jpg?v=1611646164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Gemstone<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Shaded Emerald Faceted Rondelles-- Emerald Roundle Beads  -3mm 3.5mm 17 Inch Long RB0119</p>
+<p>Strand is 17" long and holds about 190+ beads. Listing/Price is for FIVE (5) strands.</p>
+<ul>
+<li>
+<strong>Size</strong> - 3mm-3.5 Approx.</li>
+<li>
+<strong>Stone</strong> <strong>Type</strong> - Emerald</li>
+<li>
+<strong>Lenght</strong> - 17 Inches</li>
+<li>Beads - 190+ per strand </li>
+<li>
+<strong>EC</strong>-KC</li>
+</ul>
+<p>Exclusive high quality chain made in 4 Generation old Production House where trust is a tradition Bulk wholesale pricing is available .</p>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6185102999733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>RB0119</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/5764436394142</id>
+    <published>2020-10-01T02:29:00-04:00</published>
+    <updated>2020-10-01T02:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/multi-sapphire-tyre-beads-briolettes-precious-gemstone-beads-1"/>
+    <title>1 Strand Multi Sapphire Tyre Beads Briolettes  - Precious gemstone Heishi  beads 5mm 15.5 Inch Long RB0038</title>
+    <s:type>Semi Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_6698_f98537a0-9096-4070-9597-c9085e1f4323.jpg?v=1602179631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Semi Precious Stone<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Multi Sapphire Tyre Beads Briolettes  - Precious gemstone beads 5mm 15.5 Inch Long RB0038</p>
+<p>Strand is 15.5" long and holds about 100+ beads.</p>
+<p>Full 15.5 Inch strand Multi Sapphire Rondelles Listing/Price is for One (1) strand.</p>
+<ul>
+<li>
+<strong>Size</strong> = 5mm Approx.</li>
+<li>
+<strong>Stone</strong> <strong>Type</strong> = Multi Sapphire</li>
+<li>
+<strong>Lenght</strong> = 15.5 Inch</li>
+</ul>
+<p>strand Exclusive high quality chain made in 4 Generation old Production House where trust is a tradition Bulk wholesale pricing is available convo me for information on this listing or any others in my store.</p>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deal  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/5764436394142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>RB0038</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/5764438720670</id>
+    <published>2020-10-01T02:27:00-04:00</published>
+    <updated>2020-10-01T02:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/multi-sapphire-tyre-beads-briolettes-precious-gemstone-beads-2"/>
+    <title>1 Strand Multi Sapphire Tyre Beads Rondelles  - Precious Heishi, Wheel gemstone beads 4mm 16 Inch Long RB0039</title>
+    <s:type>precious Beads</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_6713_18c11152-66ff-4713-8465-7006ced09556.jpg?v=1611646158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>precious Beads<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Multi Sapphire Tyre Beads Rondelles  - Precious gemstone beads 4mm 16 Inch Long RB0039</p>
+<p>Strand is 16" long and holds about 200+ beads.</p>
+<p>Full 16 Inch strand Multi Sapphire Rondelles Listing/Price is for One (1) strand.</p>
+<ul>
+<li>
+<strong>Size</strong> = 4mm Approx.</li>
+<li>
+<strong>Stone</strong> <strong>Type</strong> = Multi Sapphire</li>
+<li>
+<strong>Lenght</strong> = 16 Inch</li>
+</ul>
+<p>strand Exclusive high quality chain made in 4 Generation old Production House where trust is a tradition Bulk wholesale pricing is available convo me for information on this listing or any others in my store.</p>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deal  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/GEMSTONES</s:tag>
+    <s:tag>Category_Default Category/GEMSTONES/SEMI PRECIOUS BRIOLETTES</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/5764438720670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>RB0039</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

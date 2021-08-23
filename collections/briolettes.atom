@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tucsonbeads.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tucsonbeads.com/collections/briolettes.atom"/>
+  <title>Tucson Beads</title>
+  <updated>2020-11-21T04:31:48-05:00</updated>
+  <author>
+    <name>Tucson Beads</name>
+  </author>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6083301802165</id>
+    <published>2020-11-21T04:31:48-05:00</published>
+    <updated>2020-11-21T04:31:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-multi-sapphire-faceted-briolettes-oval-shape-briolettes-10mmx8mm-13mmx8mm-16-5-inches-br0254"/>
+    <title>1 Strand Multi Sapphire Faceted Briolettes  -Oval Shape Briolettes  10mmx8mm-13mmx8mm -16.5 Inches BR0254</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_1907_4ef1f9c7-9476-4edf-8d8b-97771be30f25.jpg?v=1607414175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Multi Sapphire Faceted Briolettes  -Oval Shape Briolettes  10mmx8mm-13mmx8mm -16.5 Inches BR0254</p>
+<ul>
+<li>
+<strong>Size</strong> =  <span data-mce-fragment="1">10mmx8mm-13mmx8mm</span><span> </span><span>  </span>
+</li>
+<li>
+<strong>Stone</strong> =<span>Multi Sapphire </span>
+</li>
+<li>
+<strong>Shape</strong> = <span>Oval </span>
+</li>
+<li>
+<strong>Beads</strong> =40 Per Strand </li>
+<li>
+<strong>Length</strong> = 16.5 inches</li>
+<li>
+<strong>EC</strong>-MG</li>
+</ul>
+<p><span>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6083301802165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>BR0254</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/6083298394293</id>
+    <published>2020-11-21T04:17:22-05:00</published>
+    <updated>2020-11-21T04:17:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-strand-multi-sapphire-faceted-briolettes-oval-shape-briolettes-9mmx7mm-11mmx8mm-16-inches-br0251"/>
+    <title>1 Strand Multi Sapphire Faceted Briolettes  -Oval Shape Briolettes  9mmx7mm-11mmx8mm -16 Inches BR0251</title>
+    <s:type>Precious Stone</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_1892_29871adc-721f-40c8-8343-2dfd5afa9ad1.jpg?v=1607414171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Precious Stone<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Strand Multi Sapphire Faceted Briolettes  -Oval Shape Briolettes  9mmx7mm-11mmx8mm -16 Inches BR0251</p>
+<ul>
+<li>
+<strong>Size</strong> =  <span data-mce-fragment="1">9mmx7mm-11mmx8mm</span><span> </span>
+</li>
+<li>
+<strong>Stone</strong> =<span>Multi Sapphire </span>
+</li>
+<li>
+<strong>Shape</strong> = <span>Oval </span>
+</li>
+<li>
+<strong>Beads</strong> =43 Per Strand </li>
+<li>
+<strong>Length</strong> = 16 inches</li>
+<li>
+<strong>EC</strong>-MG</li>
+</ul>
+<p><span>100% natural &amp; genuine Measurements and weight are close approximations. Great Quality for making Necklace, earrings, Bracelet or any other jewelry.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/6083298394293</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>BR0251</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

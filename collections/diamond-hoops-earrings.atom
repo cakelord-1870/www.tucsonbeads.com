@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tucsonbeads.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tucsonbeads.com/collections/diamond-hoops-earrings.atom"/>
+  <title>Tucson Beads</title>
+  <updated>2020-07-11T04:17:57-04:00</updated>
+  <author>
+    <name>Tucson Beads</name>
+  </author>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/5383325057182</id>
+    <published>2020-07-11T04:17:57-04:00</published>
+    <updated>2020-07-11T04:17:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-32mmx9mm-pdc1362"/>
+    <title>1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 32mmx9mm PDC100</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_6871.jpg?v=1598574154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 32mmx9mm PDC100</p>
+<p><strong>Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 32mmx9mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pc</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!!      </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/5383325057182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>pdc100</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572266430560</id>
+    <published>2020-07-08T08:19:50-04:00</published>
+    <updated>2020-07-08T08:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-17mmx11mm-pdc1142"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 17mmx11mm PDC1142</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>bl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc1142-1.jpg?v=1588091300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bl<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For One (1) Pair Extremely Beautiful Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC1142</p>
+<p><strong>Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 17mmx11mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pair</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572266430560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>pdc1142</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572266954848</id>
+    <published>2020-06-27T08:59:52-04:00</published>
+    <updated>2020-06-27T08:59:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-13mmx9mm-pdc-1169"/>
+    <title>1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 13mmx9mm PDC1169</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc1169-1_3.jpg?v=1598551151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC1169</p>
+<p><strong>Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 13mmx9mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pc</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!!      </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572266954848</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>pdc1169</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572266856544</id>
+    <published>2020-06-27T08:58:58-04:00</published>
+    <updated>2020-06-27T08:58:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-black-spinel-hoop-earring-925-sterling-silver-fish-hoop-earring-15mmx7mm-pdc-1165"/>
+    <title>1 Pair Black Spinel Hoop Earring - 925 Sterling Silver Fish Hoop Earring 15mmx7mm PDC1165</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc1165-1_2.jpg?v=1598551150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            6.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For Extremely Beautiful 1 Pair Black Spinel Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC1165</p>
+<p><strong>Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 15mmx7mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pc</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store.So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572266856544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.59</s:price>
+      <s:sku>pdc1165</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4621725204576</id>
+    <published>2020-06-27T08:58:19-04:00</published>
+    <updated>2020-06-27T08:58:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/black-spinel-hoop-earring-925-sterling-silver-fish-hoop-earring-20mmx12mm-pdc1167"/>
+    <title>1 Pair Black Spinel Hoop Earring - 925 Sterling Silver Fish Hoop Earring 20mmx12mm PDC1167</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/il_794xN.1410838108_7mp4.jpg?v=1589641669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Pair Black Spinel Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC1167<br></p>
+<p>A Beautiful Black Spinel Hoop Earring 925 Sterling Silver </p>
+<ul>
+<li>
+<strong>Size</strong>: 22mmx12mm </li>
+<li>
+<strong>Metal</strong>: 925 Sterling Silver</li>
+<li>
+<strong>Sold As</strong>: 1 Pair</li>
+</ul>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart. Amazing quality at the best price around!!! Bulk wholesale orders are welcome on this item and any others in my shop. Makes a great focal piece, sure to get compliments!!!!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4621725204576</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>PDC1167</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572261023840</id>
+    <published>2020-06-27T08:37:31-04:00</published>
+    <updated>2020-06-27T08:37:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-21mmx11mm-pdc874"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 21mmx11mm PDC874</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc874-1.jpg?v=1588091300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For One (1) Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC874</p>
+<ul>
+<li>
+<strong>Size</strong> - 21mmx11mm</li>
+<li>
+<strong>Metal</strong> - 925 Sterling silver</li>
+<li>
+<strong>Sold As</strong> - 1 Pair</li>
+</ul>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!! Bulk wholesale orders are welcome on this item and any others in my shop,Makes a great focal piece, sure to get compliments!!!!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/FAVOURITE ALL ITEM</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572261023840</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>pdc874</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572261056608</id>
+    <published>2020-06-27T08:36:56-04:00</published>
+    <updated>2020-06-27T08:36:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-vermeil-fish-hoop-earring-21mmx11mm-pdc875"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring 21mmx11mm PDC875</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc875-1_3.jpg?v=1588091303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For One (1) Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring PDC875 </p>
+<ul>
+<li>
+<strong>Size</strong> - 21mmx11mm</li>
+<li>
+<strong>Metal</strong> - 925 Sterling Vermeil</li>
+<li>
+<strong>Sold</strong> <strong>As</strong> - 1 Pair</li>
+</ul>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Bulk wholesale orders are welcome on this item and any others in my shop.Makes a great focal piece, sure to get compliments!!!!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/FAVOURITE ALL ITEM</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572261056608</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>pdc875</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572266823776</id>
+    <published>2020-06-27T08:35:30-04:00</published>
+    <updated>2020-06-27T08:35:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-22mmx12mm-pdc-1164"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 22mmx12mm PDC1164</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc1164-1.jpg?v=1598551149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC1164</p>
+<p><strong> Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 22mmx12mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pair</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!!       </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572266823776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>pdc1164</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572266889312</id>
+    <published>2020-06-27T08:34:06-04:00</published>
+    <updated>2020-06-27T08:34:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-16mmx9mm-pdc-1166"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 16mmx9mm PDC 1166</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc1166-1.jpg?v=1588091299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            8.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC1166</p>
+<p><strong>Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 16mmx9mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pair</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store.So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!!   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572266889312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.09</s:price>
+      <s:sku>pdc1166</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572263153760</id>
+    <published>2020-06-27T08:33:18-04:00</published>
+    <updated>2020-06-27T08:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-vermeil-fish-hoop-earring-25mmx6mm-pdc995"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring 25mmx6mm PDC995</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc995-1.jpg?v=1588091303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            11.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For One (1) Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring. PDC995</p>
+<ul>
+<li>
+<strong>Size</strong> - 25mmx6mm</li>
+<li>
+<strong>Metal</strong> - 925 Sterling Vermeil</li>
+<li>
+<strong>Sold As</strong> - 1 Pair</li>
+</ul>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Bulk wholesale orders are welcome on this item and any others in my shop.Makes a great focal piece, sure to get compliments!!!!     </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572263153760</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.24</s:price>
+      <s:sku>pdc995</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/5303014523038</id>
+    <published>2020-06-20T09:41:16-04:00</published>
+    <updated>2020-06-20T09:41:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-17mmx9mm-pdc1170"/>
+    <title>1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring- 17mmx9mm PDC1170</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>Tucson Beads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/IMG_7164_805e1c94-2546-4fa2-93bf-2701804cf166.jpg?v=1598529528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tucson Beads<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring -17mmx9mm PDC1170</p>
+<p><strong>Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong><span> </span>17mmx9mm</li>
+<li>
+<strong>Metal:</strong><span> </span>925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong><span> </span>1 Pc</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store.So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!!</p>
+<p>jb </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/5303014523038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.49</s:price>
+      <s:sku>PDC1170</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4577553875040</id>
+    <published>2020-05-13T07:08:28-04:00</published>
+    <updated>2020-05-13T07:08:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/ruby-hoop-earring-925-sterling-silver-fish-hoop-earring-hoop-earring"/>
+    <title>1 Pair Ruby Hoop Earring - 925 Sterling Silver Fish Hoop Earring 16mmx9mm-22mmx12mm PDC455</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/il_794xn.1756406532_ilan.jpg?v=1598568526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing is For One (1) Pair Ruby Hoop Earring - 925 Sterling Silver Fish Hoop Earring  PDC455 </p>
+<p>A Beautiful Ruby Hoop Earring 925 Sterling Silver </p>
+<ul>
+<li>
+<strong>Size</strong>: 16mmx9mm-22mmx12mm (Including Bail)</li>
+<li>
+<strong>Metal</strong>: 925 Sterling Silver</li>
+<li>
+<strong>Sold As</strong>: 1 Pair</li>
+</ul>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart. Amazing quality at the best price around!!! Bulk wholesale orders are welcome on this item and any others in my shop. Makes a great focal piece, sure to get compliments!!!!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4577553875040</id>
+      <title>1</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>PDC455</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4577553875040</id>
+      <title>2</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>PDC455</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4577553875040</id>
+      <title>3</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>PDC455</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572266922080</id>
+    <published>2020-04-06T05:06:23-04:00</published>
+    <updated>2020-04-06T05:06:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-vermeil-fish-hoop-earring-20mmx12mm-pdc-1168"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring 20mmx12mm PDC1168</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc1168-1.jpg?v=1598551151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For One (1) Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring PDC1168</p>
+<ul>
+<li>
+<strong>Size</strong> - 20mmx12mm</li>
+<li>
+<strong>Metal</strong> - 925 Sterling Vermeil</li>
+<li>
+<strong>Sold As</strong> - 1 Pair</li>
+</ul>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Bulk wholesale orders are welcome on this item and any others in my shop.Makes a great focal piece, sure to get compliments!!!!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572266922080</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.49</s:price>
+      <s:sku>pdc1168</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572266791008</id>
+    <published>2020-04-06T05:06:14-04:00</published>
+    <updated>2020-04-06T05:06:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-black-spinel-hoop-earring-925-sterling-silver-fish-hoop-earring-16mmx10mm-pdc-1162"/>
+    <title>Extremely Beautiful 1 Pair Black Spinel Hoop Earring - 925 Sterling Silver Fish Hoop Earring 16mmx10mm PDC1162</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc1162-1_2.jpg?v=1598551148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For Extremely Beautiful 1 Pair Black Spinel Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC1162</p>
+<p><strong>Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 16mmx10mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pc</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!!     </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572266791008</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.49</s:price>
+      <s:sku>pdc1162</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572263022688</id>
+    <published>2020-04-06T05:01:42-04:00</published>
+    <updated>2020-04-06T05:01:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-silver-fish-hoop-earring-16mmx6mm-pdc978"/>
+    <title>Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring 16mmx6mm PDC978</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc978-1.jpg?v=1588091298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For Extremely Beautiful 1 Pair Pave Diamond Hoop Earring - 925 Sterling Silver Fish Hoop Earring PDC978</p>
+<p><strong> Measure approximately :</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 16mmx6mm</li>
+<li>
+<strong>Metal:</strong> 925 Sterling Silver</li>
+<li>
+<strong>Sold As:</strong> 1 Pc</li>
+</ul>
+<p>You will Get same Product as Pictured We are continuously adding new products in our store.So keep coming back to see more great deals on gems in our mart.Amazing quality at the best price around!!!Makes a great focal piece, sure to get compliments!!!! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572263022688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>PDC978</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.tucsonbeads.com/products/4572247720032</id>
+    <published>2020-04-06T04:47:39-04:00</published>
+    <updated>2020-04-06T04:47:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tucsonbeads.com/products/extremely-beautiful-1-pair-pave-diamond-hoop-earring-925-sterling-vermeil-fish-hoop-earring-16mmx10mm-pdc275"/>
+    <title>1 Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring 16mmx10mm Pdc275</title>
+    <s:type>Pave Diamond Earring</s:type>
+    <s:vendor>vj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0618/3873/products/pdc275_1.jpg?v=1598499434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vj<br>
+        <strong>Type: </strong>Pave Diamond Earring<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Listing Is For One (1) Pair Pave Diamond Hoop Earring - 925 Sterling Vermeil Fish Hoop Earring. PDC275</p>
+<ul>
+<li>
+<strong>Size</strong> - 16mmx10mm</li>
+<li>
+<strong>Metal</strong> - 925 Sterling Vermeil</li>
+<li>
+<strong>Sold As</strong> - 1 Pair</li>
+</ul>
+<p>We are continuously adding new products in our store. So keep coming back to see more great deals on gems in our mart. Amazing quality at the best price around!!! Bulk wholesale orders are welcome on this item and any others in my shop. Makes a great focal piece, sure to get compliments!!!!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Default Category/PAVE DIAMOND</s:tag>
+    <s:tag>Category_Default Category/PAVE DIAMOND/PAVE DIAMOND CHARMS</s:tag>
+    <s:variant>
+      <id>https://www.tucsonbeads.com/products/4572247720032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>Pdc275</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>
